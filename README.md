@@ -27,7 +27,7 @@ The objective is to move your car left and right to avoid falling obstacles and 
 ## 🖥️ Tech Stack
 - **Language:** Java  
 - **GUI Framework:** Swing (`JPanel`, `Graphics`, `KeyListener`)  
-- **Assets:** PNG images for car and obstacles
+- **Assets:** PNG images for car and obstacles cars and road.
 
 ---
 
