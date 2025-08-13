@@ -34,14 +34,20 @@ The objective is to move your car left and right to avoid falling obstacles and 
 ## 📸 Screenshots
 *(Replace the below image paths with your actual uploaded screenshots)*
 
-![Start Screen](screenshots/start.png)  
-![Gameplay](screenshots/gameplay.png)  
-![Game Over](screenshots/gameover.png)
+  
+
+![Gameplay] <img width="482" height="617" alt="Gameplay" src="https://github.com/user-attachments/assets/e1e16287-f1b6-4ac4-a6c4-b04a3e1c9806" />
+
+
+![Game Over] <img width="477" height="611" alt="Gameover" src="https://github.com/user-attachments/assets/7c51e177-2088-4032-85ab-28b208c5d461" />
+
 
 ---
 
 ## 🎥 Demo Video
-[▶ Watch on YouTube](https://youtu.be/your-demo-video-link)
+
+https://github.com/user-attachments/assets/d88c18d6-5137-4e1b-8bda-1dd3514d3a6e
+
 
 ---
 
@@ -54,5 +60,5 @@ The objective is to move your car left and right to avoid falling obstacles and 
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/java-car-game.git
+   git clone https://github.com/anaydeshpande1749/java-car-game.git
    cd java-car-game
