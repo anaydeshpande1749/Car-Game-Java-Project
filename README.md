@@ -32,14 +32,11 @@ The objective is to move your car left and right to avoid falling obstacles and 
 ---
 
 ## 📸 Screenshots
-*(Replace the below image paths with your actual uploaded screenshots)*
 
-  
-
-![Gameplay] <img width="482" height="617" alt="Gameplay" src="https://github.com/user-attachments/assets/e1e16287-f1b6-4ac4-a6c4-b04a3e1c9806" />
+[Gameplay] <img width="482" height="617" alt="Gameplay" src="https://github.com/user-attachments/assets/e1e16287-f1b6-4ac4-a6c4-b04a3e1c9806" />
 
 
-![Game Over] <img width="477" height="611" alt="Gameover" src="https://github.com/user-attachments/assets/7c51e177-2088-4032-85ab-28b208c5d461" />
+[Game Over] <img width="477" height="611" alt="Gameover" src="https://github.com/user-attachments/assets/7c51e177-2088-4032-85ab-28b208c5d461" />
 
 
 ---
