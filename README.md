@@ -57,5 +57,5 @@ https://github.com/user-attachments/assets/d88c18d6-5137-4e1b-8bda-1dd3514d3a6e
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/anaydeshpande1749/java-car-game.git
-   cd java-car-game
+   git clone https://github.com/anaydeshpande1749/Car-Game-Java-Project.git
+   cd Car-Game-Java-Project
